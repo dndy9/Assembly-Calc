@@ -10,3 +10,5 @@ load this onto r8.
 We can also see from our forloop we load each symbol and perform the ASCII
 conversion based on whatever was loaded onto the bl, cl registers using r10 as the
 index.
+![297327391-e9a006f6-fdb1-496d-95d5-fc71278d1e36](https://github.com/dndy9/Assembly-Calc/assets/144296043/d75c3668-aefb-40fb-8c73-19dd80bd6596)
+![297327397-7c6ed290-b086-4ef0-962a-d0a0b372cfc9](https://github.com/dndy9/Assembly-Calc/assets/144296043/d8f28c09-854e-4f3d-88ff-df1603313435)
