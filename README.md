@@ -1,5 +1,10 @@
 Basic assembly calculator
 
+Operations shall include at least one addition, one subtraction, one multiplication, and
+one division, but they can be entered in a different order. For example, a+b*c/d-e or
+a*b-c+d/e, where a, b, c, d, and e are integers from 0 to 9 entered on the keyboard.
+
+
 This code reads whatever is the input string is up to 10 bytes and is named input for
 the buffer. After this we load the first byte from input onto rax and then we subtract 48
 to convert the ASCII value to its respective integer value.
